@@ -50,5 +50,6 @@ My background in cybersecurity has fueled my passion for the field, and I am now
 </div>
 
 ## Projects
-- Detection Lab
+- Penetration-Testing-and-Log-Analysis-Lab
 - SOC Automation Project
+
